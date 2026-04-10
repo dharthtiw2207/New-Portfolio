@@ -1,0 +1,23 @@
+.footer {
+  text-align: center;
+  padding: 2.5rem 1rem;
+  border-top: 1px solid var(--border);
+  position: relative;
+  z-index: 2;
+}
+
+.footer p {
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-family: var(--font-mono);
+}
+
+.footer-name {
+  color: var(--accent);
+}
+
+.footer-sub {
+  margin-top: 0.4rem;
+  font-size: 0.72rem;
+  opacity: 0.6;
+}
