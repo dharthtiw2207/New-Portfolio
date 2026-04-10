@@ -90,15 +90,7 @@ const About = () => (
         <div className="about-avatar">
           {/* <span className="avatar-initials">ST</span> */}
 
-
-
-
           <img src={profileImg} alt="Siddhartha Tiwari" className="avatar-img" />
-
-
-
-
-
 
           <div className="avatar-ring ring1" />
           <div className="avatar-ring ring2" />
